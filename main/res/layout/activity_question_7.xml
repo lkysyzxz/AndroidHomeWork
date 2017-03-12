@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="edu.cqu.wwt.surveynew.Question_7">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:textSize="30dp"
+        android:paddingTop="80dp"
+        android:text="@string/QUESTION_7"
+        android:id="@+id/QUE_7_BIGTITLE" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:layout_below="@id/QUE_7_BIGTITLE"
+        android:id="@+id/QUE_7_TITLE"
+        android:text="@string/QUESTION_7_TITLE"
+        />
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/QUE_7_TITLE"
+        android:layout_marginTop="20dp"
+        android:id="@+id/QUE_7_CHOICES"
+        android:layout_marginLeft="135dp">
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/QUESTION_YES"/>
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/QUESTION_NO"/>
+    </RadioGroup>
+    <Button
+        android:id="@+id/QUE_7_NEXT"
+        android:layout_marginTop="50dp"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/QUE_7_CHOICES"
+        android:layout_centerHorizontal="true"
+        android:onClick="onClick"
+        android:text="Next" />
+    <Button
+        android:id="@+id/QUE_7_BACK"
+        android:layout_marginTop="50dp"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/QUE_7_NEXT"
+        android:layout_centerHorizontal="true"
+        android:onClick="onClick"
+        android:text="Back" />
+</RelativeLayout>

@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">SurveyNew</string>
+    <string name="TITLE">Personal Information Collector</string>
+    <string name="QUESTION_1">Question One</string>
+    <string name="QUESTION_1_TITLE">1.What is your name?</string>
+
+    <string name="QUESTION_2">Question Two</string>
+    <string name="QUESTION_2_TITLE">2.Gender:</string>
+    <string name="QUESTION_2_CHOICE_1">Female</string>
+    <string name="QUESTION_2_CHOICE_2">Male</string>
+
+    <string name="QUESTION_3">Question Three</string>
+    <string name="QUESTION_3_TITLE">3.Grade:</string>
+    <string name="QUESTION_3_CHOICE_1">2013</string>
+    <string name="QUESTION_3_CHOICE_2">2014</string>
+    <string name="QUESTION_3_CHOICE_3">2015</string>
+    <string name="QUESTION_3_CHOICE_4">2016</string>
+
+    <string name="QUESTION_4">Question Four</string>
+    <string name="QUESTION_4_TITLE">4.Major:</string>
+
+    <string name="QUESTION_5">Question Five</string>
+    <string name="QUESTION_5_TITLE">5.Your Clas:</string>
+
+    <string name="QUESTION_6">Question Six</string>
+    <string name="QUESTION_6_TITLE">6.Are you MEMBER?</string>
+    <string name="QUESTION_YES">Yes</string>
+    <string name="QUESTION_NO">No</string>
+
+    <string name="QUESTION_7">Question Seven</string>
+    <string name="QUESTION_7_TITLE">7.Are you PARTY MEMBER?</string>
+
+    <string name="QUESTION_8">Question Seven</string>
+    <string name="QUESTION_8_TITLE">8.Where is your home town?</string>
+
+    <string name="QUESTION_9">Question Nine</string>
+    <string name="QUESTION_9_TITLE">2.Do you like game?</string>
+    <string name="QUESTION_9_CHOICE_1">Overwatch</string>
+    <string name="QUESTION_9_CHOICE_2">LOL</string>
+
+
+    <string name="QUESTION_10">Question Ten</string>
+    <string name="QUESTION_10_TITLE">10.Are you a teacher?</string>
+
+    <string name="QUESTION_11">Question Eleven</string>
+    <string name="QUESTION_11_TITLE">11.Are you a student?</string>
+
+    <string name="QUESTION_12">Question 12</string>
+    <string name="QUESTION_12_TITLE">12.What is your lucky number?</string>
+
+
+</resources>

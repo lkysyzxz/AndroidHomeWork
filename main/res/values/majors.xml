@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="QUESTION_4_MAJORS">
+        <item>Software Engineering</item>
+        <item>The Association of Chartered Certified Accountants</item>
+        <item>Civil Engineering</item>
+        <item>Computer Engineering Department</item>
+        <item>Electronic Information and Control Engineering Department</item>
+        <item>Information and Computer Science Department</item>
+        <item>Foreign language and literature department</item>
+        <item>Social Science Department/Section</item>
+    </string-array>
+</resources>
