@@ -21,4 +21,6 @@ Submit my homework
   * The APK you can use to install the APP
   * May be you can try it at 12:00~22:00
   * I always create a new task at 23:00 and end it at 22:00 in second day.
+  * If you want to post data,please choose the number 308,which is the room number.
+  * This system is running on my server and we use it every day.
 * Thank you.
